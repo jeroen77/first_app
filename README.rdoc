@@ -1,4 +1,0 @@
-== My First App
-
-From the Hartl tutorial
-
